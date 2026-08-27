@@ -2,11 +2,11 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/mirla-montano/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/Mirlu-exe"
         },
         {
             "network" : "leetcode",
@@ -14,7 +14,7 @@
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:mirlamontano1998@gmail.com"
         }
     ]
 }
