@@ -6,7 +6,7 @@
             "cardSubtitle":"\"Nagaoka University of Technology\", Japan",
             "cardDetailedText": "",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/Nagaoka_University_of_Technology_Emblem.png"
             }
         },
         {
@@ -15,14 +15,17 @@
             "cardSubtitle":"\"Santiago Mariño\" University, Venezuela",
             "cardDetailedText": "",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/LOGO_DE_IUPSM_azul.png"
             }
         },
         {
             "title": "Apr 2014",
             "cardTitle": "High School",
             "cardSubtitle":"\"Felix Maria Paredes\",Venezuela",
-            "cardDetailedText": ""
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/Felix_Maria_Paredes_logo.png"
+            }
         }
     ]
 }
