@@ -5,8 +5,7 @@
             "subtitle": "Nagaoka University of Technology",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Conducted research aimed at gaining a deeper understanding of collective behavior in social animals using machine learning and AI technologies."
             ],
             "dateText": "04/2025 – Present"
         },
@@ -15,17 +14,16 @@
             "subtitle": "Cibernética C.A",
             "workType": "Freelance",
             "workDescription": [
-                "Worked on abc."
+                "Worked on business process visualization, application development, system integration, maintenance, and support."
             ],
             "dateText": "01/2024 – 02/2025"
         },
         {
-            "title": "Software Developer, QA Engineer",
+            "title": "Software Engineer, QA Tester",
             "subtitle": "WAMS",
             "workType": "Internship",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Participated in an internship focused on the development and testing of web applications and games for Android, gaining practical experience with the software development lifecycle (SDLC) and communication between teams."
             ],
             "dateText": "04/2021 – 06/2021"
         }
