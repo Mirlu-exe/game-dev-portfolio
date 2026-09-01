@@ -33,6 +33,14 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
+                    "icon": "images/skills/unity_logo.png",
+                    "title": "Unity"
+                },
+                {
+                    "icon": "images/skills/Unreal Engine icon - black.png",
+                    "title": "Unreal Engine"
+                },
+                {
                     "icon": "images/skills/android_new.png",
                     "title": "Android"
                 },
