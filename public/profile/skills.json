@@ -17,12 +17,12 @@
                     "title": "C#"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
-                },
-                {
                     "icon": "images/skills/mongo-db.png",
                     "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
                 },
                 {
                     "icon": "images/skills/sqlServer_logo.png",
