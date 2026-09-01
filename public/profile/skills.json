@@ -23,6 +23,10 @@
                 {
                     "icon": "images/skills/mongo-db.png",
                     "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/sqlServer_logo.png",
+                    "title": "SQL Server"
                 }
         ]},
         {
