@@ -56,6 +56,10 @@
                 {
                     "icon": "images/skills/yologo_2_lopvlj.png",
                     "title": "YOLO"
+                },
+                {
+                    "icon": "images/skills/Raylib_logo.png",
+                    "title": "Raylib"
                 }
             ]
         },
