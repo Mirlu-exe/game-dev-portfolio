@@ -17,6 +17,10 @@
                     "title": "C#"
                 },
                 {
+                    "icon": "images/skills/Sql_data_base_with_logo.svg",
+                    "title": "SQL"
+                },
+                {
                     "icon": "images/skills/mongo-db.png",
                     "title": "MongoDB"
                 },
@@ -32,6 +36,28 @@
         {
             "title": "Frameworks & Technologies",
             "items" : [
+                
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/Blender_logo_no_text.svg",
+                    "title": "Blender"
+                },
+                {
+                    "icon": "images/skills/yologo_2_lopvlj.png",
+                    "title": "YOLO"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
                 {
                     "icon": "images/skills/unity_logo.png",
                     "title": "Unity"
@@ -40,23 +66,6 @@
                     "icon": "images/skills/Unreal Engine icon - white.png",
                     "title": "Unreal Engine"
                 },
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
-                }
-            ]
-        },
-        {
-            "title" : "Tools & Platforms",
-            "items": [
                 {
                     "icon": "images/skills/android-studio.png",
                     "title": "Android Studio"
