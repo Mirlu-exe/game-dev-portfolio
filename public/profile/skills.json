@@ -50,6 +50,10 @@
                     "title": "OpenGL"
                 },
                 {
+                    "icon": "images/skills/DirectX_logo.png",
+                    "title": "HLSL"
+                },
+                {
                     "icon": "images/skills/yologo_2_lopvlj.png",
                     "title": "YOLO"
                 }
@@ -81,6 +85,14 @@
                 {
                     "icon": "images/skills/Blender_logo_no_text.svg",
                     "title": "Blender"
+                },
+                {
+                    "icon": "images/skills/pandas.png",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/matplotlib.png",
+                    "title": "Matplotlib"
                 }
             ]
     }
