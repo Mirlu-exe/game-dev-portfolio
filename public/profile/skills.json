@@ -46,8 +46,8 @@
                     "title": "Nodejs"
                 },
                 {
-                    "icon": "images/skills/Blender_logo_no_text.svg",
-                    "title": "Blender"
+                    "icon": "images/skills/OpenGL_logo.svg",
+                    "title": "OpenGL"
                 },
                 {
                     "icon": "images/skills/yologo_2_lopvlj.png",
@@ -77,6 +77,10 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/Blender_logo_no_text.svg",
+                    "title": "Blender"
                 }
             ]
     }
