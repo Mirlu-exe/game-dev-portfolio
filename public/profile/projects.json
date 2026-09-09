@@ -81,7 +81,12 @@
                 {
                     "text": "Itch.io",
                     "href": "https://jocrod.itch.io/the-place-you-cant-return-to"
+                },
+                {
+                    "text": "Live: Play the game",
+                    "href": "https://jocrod.itch.io/the-place-you-cant-return-to"
                 }
+
             ],
             "tags" : [
                 "C#",
@@ -101,37 +106,6 @@
             "tags" : [
                 "C#",
                 "Unity"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
             ]
         }
     ]
