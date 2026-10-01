@@ -16,12 +16,8 @@
             "bodyText": "- A Venezuelan 2D Fighting Game.\n - Developed a working demo.\n - Programmer \n - Worked on the game mechanics and the character's animations.",
             "links": [
                 {
-                    "text": "GitHub",
+                    "text": "Website",
                     "href": "https://zaperoco.carrd.co/"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
                 }
             ],
             "tags" : [
@@ -95,12 +91,27 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/"
+                    "href": "https://github.com/Mirlu-exe"
                 }
             ],
             "tags" : [
                 "C#",
                 "Unity"
+            ]
+        }
+        {
+            "image" : "images/projects/beehive_manager_logo.png",
+            "title": "WIP Mystery Game",
+            "bodyText": "- Videogame about mystery and adventure \n Currently in the making \n- Programmer and Technical Artist\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Mirlu-exe"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "Unreal Engine"
             ]
         }
     ]
