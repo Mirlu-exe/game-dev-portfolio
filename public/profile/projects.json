@@ -3,17 +3,7 @@
         {
             "image" : "images/projects/Mirla_SG_Expo_Cosplay.JPG",
             "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
-                }
-            ],
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",           
             "tags" : [
                 "React",
                 "Portfolio",
@@ -23,7 +13,7 @@
         {
             "image" : "images/projects/zaperoco.jpg",
             "title": "Zaperoco",
-            "bodyText": "- A Venezuelan 2D Fighting Game.\n - Developed a working demo.\n",
+            "bodyText": "- A Venezuelan 2D Fighting Game.\n - Developed a working demo.\n - Programmer \n - Worked on the game mechanics and the character's animations.",
             "links": [
                 {
                     "text": "GitHub",
@@ -51,6 +41,11 @@
                 {
                     "text": "Live: Play the game",
                     "href": "https://jocrod.itch.io/catarsis-the-game"
+                },
+                
+                {
+                    "text": "Watch the gameplay",
+                    "href": "https://youtu.be/TV--5zrpTDk"
                 }
             ],
             "tags" : [
@@ -61,7 +56,7 @@
         {
             "image" : "images/projects/lost_echo.jpg",
             "title": "Lost Echo",
-            "bodyText": "- Side scroller game for the Global Game Jam 2018\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "bodyText": "- Side scroller game for the Global Game Jam 2018\n ",
             "links": [
                 {
                     "text": "GitHub",
@@ -76,7 +71,7 @@
         {
             "image" : "images/projects/tpycrt.jpg",
             "title": "The Place you can't return to",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "bodyText": "-A game about a small capybara, that while following his dreams and ambitions, can't return to the place he once called home.\n -Programmer and Technical Artist\n -Worked on the game mechanics, animations, and visual effects.",
             "links": [
                 {
                     "text": "Itch.io",
@@ -96,7 +91,7 @@
         {
             "image" : "images/projects/beehive_manager_logo.png",
             "title": "Beekeeper Simulator",
-            "bodyText": "- A videogame that teaches you how to take care of bees\n ",
+            "bodyText": "- A videogame that teaches you how to take care of bees on a realistic beehive\n - Programmer and Technical Artist\n - Worked on the game mechanics and visual effects.",
             "links": [
                 {
                     "text": "GitHub",
