@@ -62,7 +62,7 @@ function Home() {
 
           <div className="tile tile--accent monogram span-2">
             <span className="monogram-mark">{initialsOf(data?.name)}</span>
-            <span className="monogram-label">{data?.name}</span>
+            <span className="monogram-label">{data?.name} 🎮 </span>
           </div>
 
           <div className="tile hero-social span-2">
